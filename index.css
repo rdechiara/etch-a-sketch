@@ -24,7 +24,7 @@ html, body
 }
 .container > div
 {
-    border: blue solid 1px;
+
     flex-grow: 1;
 }
 
